@@ -1,7 +1,7 @@
 
  
  <h1 align="center">Olá 👋, sou Fabio Vicente de Sena</h1>
-<h3 align="center">Sou um programador full-stack com experiência em desenvolvimento front-end, back-end e projetos freelancers . Tenho um forte conhecimento das principais tecnologias da web e estou sempre buscando aprender novas coisas. Atualmente estou cursando Análise e desenvolvimento de sistemas na universidade Unimar de Marília e estou fazendo o curso do DevClub ministrado por Rodolfo Mori onde estou tendo um amplo conhecimento de programação com as melhores tecnologias. Sou uma pessoa proativa, com habilidades de comunicação e trabalho em equipe.</h3>
+<h3 align="center">Sou um programador full-stack com experiência em desenvolvimento front-end, back-end e projetos freelancers . Tenho um forte conhecimento das principais tecnologias da web e estou sempre buscando aprender algo novo. Atualmente estou cursando Análise e desenvolvimento de sistemas na universidade Unimar de Marília e estou fazendo o curso do DevClub ministrado por Rodolfo Mori onde estou tendo um amplo conhecimento de programação com as melhores tecnologias. Sou uma pessoa proativa, com habilidades de comunicação e trabalho em equipe.</h3>
 
 
 <p align="left">
