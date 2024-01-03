@@ -30,7 +30,7 @@
 </p>
 
 <p align="left"><br><br>
-  💼 Ferramentas:
+  💼  Ferramentas:
  
  <code><img
     height="30"
@@ -72,21 +72,21 @@
 
   <a href="https://www.instagram.com/fabio.sena36/" target="_blank" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+</p><br><br>
 
 
-## Status
+ <p align="center">Status </p><br>
 
-<a href="https://github.com/fabiosena1436" title="ilustração do mapeamento de linguagens">
+<a align="center" href="https://github.com/fabiosena1436" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
 <a href="https://github.com/fabiosena1436" title="ilustração do mapeamento do perfil">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
-</p>
+</p><br><br><br>
 
---- ### 🏆 GitHub Profile Trophy:
+<p align="center">🏆 GitHub Profile Trophy:</p><br>
 
 <p align="center">
   <a
