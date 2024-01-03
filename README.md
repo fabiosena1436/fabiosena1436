@@ -2,7 +2,8 @@
 <img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
 
 <p align="left"> 
- Sou um programador full-stack com experiência em desenvolvimento front-end, back-end e projetos freelancers. Tenho um forte conhecimento das principais tecnologias da web e estou sempre buscando aprender novas coisas. Sou uma pessoa proativa, com habilidades de comunicação e trabalho em equipe.<br>
+ Sou um programador full-stack com experiência em desenvolvimento front-end, back-end e projetos freelancers. Tenho um forte conhecimento das principais tecnologias da web e estou sempre buscando aprender novas coisas.  
+Atualmente estou cursando Analise e desenvolvimento de sistemas na universidade Unimar de Marília e estou fazendo o curso do DevClub ministrado pelo Rodolfo Mori onde estou tendo um amplo conhecimento de programação com as melhores tecnologias. Sou uma pessoa proativa, com habilidades de comunicação e trabalho em equipe.<br>
 </p>
 
 <p align="left">
