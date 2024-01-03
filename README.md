@@ -49,7 +49,7 @@
 </p>
 
 <p align="left">
-  <a href="fabiosena1436@gmail.com" title="Gmail">
+  <a href="mailto:fabiosena1436@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=Fabio informações <fabiosena1436@gmail.com>" alt="Gmail"/></a>
 
   <a href="https://www.facebook.com/fabio.sena.315?mibextid=ZbWKwL" target="_blank" title="LinkedIn">
