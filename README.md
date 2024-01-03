@@ -1,3 +1,3 @@
-### Hi there 👋
+< img  src = " https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png "  min-width = " 400px "  max-width = " 400px "  width = " 400px "  align = " certo " >
+< img  src = " https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png "  alt = " ilustração de um computador " min-width = " 400px " max-width = " 400px " largura = " 400px " align = " direita " >    
 
-Sou um programador full-stack com experiência em desenvolvimento front-end, back-end e projetos freelancers. Tenho um forte conhecimento das principais tecnologias da web e estou sempre buscando aprender novas coisas. Sou uma pessoa proativa, com habilidades de comunicação e trabalho em equipe.
