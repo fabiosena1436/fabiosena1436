@@ -69,11 +69,11 @@ Atualmente estou cursando Analise e desenvolvimento de sistemas na universidade 
 
 ## Status
 
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
+<a href="https://github.com/fabiosena1436" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
 </a>
 
-<a href="https://github.com/Gurupreet" title="ilustração do mapeamento do perfil">
+<a href="https://github.com/fabiosena1436" title="ilustração do mapeamento do perfil">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 </p>
@@ -87,7 +87,7 @@ Atualmente estou cursando Analise e desenvolvimento de sistemas na universidade 
   >
     <img
       width="800"
-      src="https://github-profile-trophy.vercel.app/?username=victormoreiraofc&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      src="https://github-profile-trophy.vercel.app/?username=fabiosena1436&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
 </p>
@@ -100,7 +100,7 @@ Atualmente estou cursando Analise e desenvolvimento de sistemas na universidade 
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/victormoreiraofc/count.svg"
+    src="https://profile-counter.glitch.me/fabiosena1436/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
