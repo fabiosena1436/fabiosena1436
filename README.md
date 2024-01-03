@@ -1,5 +1,5 @@
- 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+ # Olá, seja bem vindo ao meu perfil!
+<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="300px" align="right">
 
 <p align="left"> 
  Sou um programador full-stack com experiência em desenvolvimento front-end, back-end e projetos freelancers. Tenho um forte conhecimento das principais tecnologias da web e estou sempre buscando aprender novas coisas. Sou uma pessoa proativa, com habilidades de comunicação e trabalho em equipe.<br>
@@ -55,13 +55,13 @@
   <a href="https://www.facebook.com/fabio.sena.315?mibextid=ZbWKwL" target="_blank" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-vicente-de-sena/" alt="LinkedIn"/></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5518981579318&text=Olá encontrei seu numero no github, gostaria de entrar em contato pois gostrei do seu perfil de programador" title="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5518981579318&text=Olá, encontrei seu número no GitHub, gostaria de entrar em contato, pois gostei do seu perfil de programador." title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
 
   <a href="https://www.facebook.com/fabio.sena.315?mibextid=ZbWKwL" target="_blank" title="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
 
-  <a href="https://www.linkedin.com/in/fabio-vicente-de-sena/" target="_blank" title="Instagram">
+  <a href="https://www.instagram.com/fabio.sena36/" target="_blank" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
 
@@ -76,4 +76,32 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanessaswerts&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 </p>
+
+--- ### 🏆 GitHub Profile Trophy:
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=victormoreiraofc&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/victormoreiraofc/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
+
 
